@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-paramidib-main.flake = false;
+  inputs.src-paramidib-main.ref   = "refs/heads/main";
   inputs.src-paramidib-main.owner = "pietroppeter";
-  inputs.src-paramidib-main.ref   = "main";
   inputs.src-paramidib-main.repo  = "paramidib";
   inputs.src-paramidib-main.type  = "github";
   
