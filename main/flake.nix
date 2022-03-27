@@ -11,6 +11,7 @@
   inputs.src-paramidib-main.ref   = "refs/heads/main";
   inputs.src-paramidib-main.owner = "pietroppeter";
   inputs.src-paramidib-main.repo  = "paramidib";
+  inputs.src-paramidib-main.dir   = "";
   inputs.src-paramidib-main.type  = "github";
   
   inputs."paramidi".owner = "nim-nix-pkgs";
