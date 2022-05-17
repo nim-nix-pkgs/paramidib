@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "0_6_0",
-        "lastModified": 1652391415,
-        "narHash": "sha256-TL21RQyFdsGhh8lWeGmRw/7uQBTlHUfA0dWi7bUbUZ0=",
+        "lastModified": 1652791830,
+        "narHash": "sha256-vAAsEMdM38bFS4JnMst8QSwZdd9dVag6aTCJLnjeDoc=",
         "owner": "nim-nix-pkgs",
         "repo": "paramidi",
-        "rev": "be18452989a3d0c1dcee3e996321a02d49093ac6",
+        "rev": "fbd798626ebbbf4f0a6b5a35c9d322f306ffc656",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1652391417,
-        "narHash": "sha256-0J6WDkblJ8uvxtQ+4RdO+LFysbYjBagBhnGoB69QH9E=",
+        "lastModified": 1652791831,
+        "narHash": "sha256-dkrvQnk00rDLXcQt/NTzEHM6f6TqsTHjGhwevJulquY=",
         "owner": "nim-nix-pkgs",
         "repo": "paramidi_soundfonts",
-        "rev": "52e8d13084fa8991ebb53f909a1441c2f53e6b8c",
+        "rev": "f5ed2b4d10c412d7df27cc3b1e5e3c18db4d851e",
         "type": "github"
       },
       "original": {
@@ -98,11 +98,11 @@
       },
       "locked": {
         "dir": "1_0_0",
-        "lastModified": 1652391418,
-        "narHash": "sha256-WTq0Ais1oeyK5Rydp3zam9lBSQ+vv4AxBjSViBxIc5A=",
+        "lastModified": 1652791832,
+        "narHash": "sha256-TIN9tr8FyBVyYPS+RCTyUwO6gpWcMTuMk0pjs2Igrho=",
         "owner": "nim-nix-pkgs",
         "repo": "parasound",
-        "rev": "7606cdd6102ffa0963b146bc8dc3bffb6ad60302",
+        "rev": "30411665f43898585d72065abd2968fe8c076d4a",
         "type": "github"
       },
       "original": {
